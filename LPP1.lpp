@@ -1,0 +1,12 @@
+entero n
+inicio 
+escriba "Ingrese un numero: "
+lea n
+mientras n<>5 haga
+escriba "Usted no digito 5 "
+llamar nueva_linea
+escriba "No se coma un chicle: "
+lea n
+fin mientras
+escriba "Comete un chicle"
+fin
