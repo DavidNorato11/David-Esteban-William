@@ -10,7 +10,7 @@
 'Verificación de edad'
 4
 1
-28
+30
 'Por favor ingrese su edad:'
 5
 1
@@ -20,12 +20,12 @@ a
 0
 1
 4
-a>50
+a>52
 7
 0
 1
 4
-a>45
+a>48
 7
 0
 1
@@ -84,13 +84,13 @@ a>1
 1
 14
 'Adulto Mayor'
-13
+14
 13
 4
 1
 14
 'Tercera edad'
-13
+14
 13
 4
 1
