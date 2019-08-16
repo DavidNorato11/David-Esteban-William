@@ -1,0 +1,32 @@
+entero i,j,suma,k,p
+
+inicio 
+	
+	para i<-1 hasta 3 haga 
+	llamar nueva_linea
+		Escriba "Descanso"
+		llamar nueva_linea 
+			
+			para j<-1 hasta 4 haga
+				Escriba j
+				llamar nueva_linea
+				
+				para p<-3 hasta 5 haga 
+					escriba "   h"
+		
+						para k<-1 hasta 3 haga 
+						
+						
+						
+						
+						
+							suma<-k+1
+							escriba suma
+						
+							escriba "  kk"
+						fin para
+				fin para 
+				escriba "  pp"
+			fin para
+	fin para
+fin
