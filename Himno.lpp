@@ -1,0 +1,78 @@
+inicio 
+llamar color_texto (14) /* cambiar el color */
+
+escriba "				I"
+llamar nueva_linea
+llamar nueva_linea
+
+escriba "		ESTUDIANTES DEL SENA. ADELANTE!"
+llamar nueva_linea
+escriba "		POR COLOMBIA LUCHAD CON AMOR"
+llamar nueva_linea
+escriba "		CON EL ANIMO NOBLE Y RADIANTE"
+llamar nueva_linea
+escriba "		TRANSFORMEMOSLE EN MUNDO MEJOR"
+llamar nueva_linea
+llamar nueva_linea
+escriba "				II"
+llamar nueva_linea
+llamar nueva_linea
+escriba "		DE LA PATRIA EL FUTURO DESTINO"
+llamar nueva_linea
+escriba "		EN LAS MANOS DEL JOVEN ESTA"
+llamar nueva_linea
+escriba "		EL TRABAJO ES SEGURO CAMINO"
+llamar nueva_linea
+escriba "		QUE EL PROGRESO A COLOMBIA DARA"
+llamar nueva_linea
+llamar nueva_linea
+llamar color_texto (11)  /* cambiar el color */
+escriba "				III"
+llamar nueva_linea
+llamar nueva_linea
+escriba "		EN LA FORJA DEL SENA SE FORMAN"
+llamar nueva_linea
+escriba "		HOMBRES LIBRES QUE ANHELAN TRIUNFAR"
+llamar nueva_linea
+escriba "		CON LA CIENCIA Y LA TECNICA UNIDAS"
+llamar nueva_linea
+escriba "		NUEVOS RUMBOS DE PAZ TRAZARAN"
+llamar nueva_linea
+llamar nueva_linea
+escriba "				IV"
+llamar nueva_linea
+escriba "		HOY LA PATRIA NOS GRITA SENTIDA"
+llamar nueva_linea
+escriba "		ESTUDIANTES DEL SENA TRIUNFAD"
+llamar nueva_linea
+escriba "		SOLO ASI LOGRAREIS EN LA VIDA"
+llamar nueva_linea
+escriba "		MAS JUSTICIA MAYOR LIBERTAD"
+llamar nueva_linea
+llamar nueva_linea
+llamar color_texto (12) cambiar /* cambiar el color */
+escriba"				V"
+llamar nueva_linea
+llamar nueva_linea
+escriba "		AVANCEMOS CON FUERZA GUERRERA"
+llamar nueva_linea
+escriba "		ESTUDIANTES CON FIRME TESON"
+llamar nueva_linea
+escriba "		QUE LA PATRIA EN NOSOTROS ESPERA"
+llamar nueva_linea
+escriba "		SU PACIFICA REVOLUCION "
+llamar nueva_linea
+llamar nueva_linea
+escriba "				CORO"
+llamar nueva_linea
+llamar nueva_linea
+escriba "		ESTUDIANTES DEL SENA. ADELANTE!"
+llamar nueva_linea
+escriba "		POR COLOMBIA LUCHAD CON AMOR"
+llamar nueva_linea
+escriba "		CON EL ANIMO NOBLE Y RADIANTE"
+llamar nueva_linea
+escriba "		TRANSFORMÉMOSLE EN MUNDO MEJOR "
+
+
+fin
